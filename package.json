@@ -1,21 +1,21 @@
 {
-  "name": "electron-quick-start",
+  "name": "GEARS desktop",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A minimal Electron embedding GEARS",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/technologiescollege/GearsDesktop",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "GEARS",
+    "programming",
+    "robot",
+    "blockly"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "Sébastien Canet",
+  "license": "GPL-3.0",
   "devDependencies": {
     "electron": "^12.0.1"
   }
